@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sergio Abreu García
-- 👀 I’m interested in game dev, Rust, technical art, creativity
-- 🌱 I’m currently learning [Bevy](https://github.com/bevyengine/bevy) :D
+- 👋 Hi, I’m Sergio
+- 👀 I’m mainly interested in programming languages, operating systems and game engines.
 - 📫 [sergioabreu.me](sergioabreu.me)
 
 <!---

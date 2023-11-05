@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sergio
-- 👀 I’m mainly interested in programming languages, operating systems and game engines.
+- 👀 I’m mainly interested in systems programming (programming languages, operating systems, game engines) and theoretical computer science (maths, algorithms, brain-melting stuff)
 - 📫 [sergioabreu.me](sergioabreu.me)
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergio
 - 👀 I’m mainly interested in systems programming; programming languages, operating systems, game engines...
-- 📫 [sergioabreu.me](sergioabreu.me)
+- 📫 [sergioabreu.me](https://sergioabreu.me)
 
 <!---
 sergioabreu-g/sergioabreu-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
